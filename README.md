@@ -28,7 +28,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   - Power BI
   
 ### Dashboard Summary
-![Dashboard image](https://github.com/GreatYisa/Power-BI-BG-Sales-Report/blob/main/Screenshot%202024-06-10%20210238.png)
+![Dashboard image](https://github.com/GreatYisa/wasiu_portfolio/blob/main/Screenshot%202024-06-10%20210238.png)
 
 ### Dataset
 [Dataset](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/TNMTRetailsalesdocforCapstoneProject.xlsx)
