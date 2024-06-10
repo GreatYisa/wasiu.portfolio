@@ -28,10 +28,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   - Power BI
   
 ### Dashboard Summary
-![Dashboard image](https://github.com/GreatYisa/wasiu_portfolio/blob/main/Screenshot%202024-06-10%20210238.png)
-
-### Dataset
-[Dataset](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/TNMTRetailsalesdocforCapstoneProject.xlsx)
+![Dashboard image](Screenshot%202024-06-10%20210238.png)
 
 
 ### Project 2: TMNT Retail Analytics
@@ -45,4 +42,4 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   - Excel
   
 ### Dashboard Summary
-![Dashboard image](https://github.com/GreatYisa/wasiu_portfolio/blob/main/Screenshot%202024-06-10%20213350.png)
+![Dashboard image](Screenshot%202024-06-10%20213350.png)
