@@ -1,9 +1,9 @@
 ### WELCOME TO WASIU ADIO YISA PORTFOLIO
-- Linkedin Profile: [My Linkedin](https://www.linkedin.com/in/yisawasiu/)
 
 ### About Me
 
-I'm a value-driven data analyst with over two (2) years of experience. I have keen interest in uncovering meaningful insights from data to drive strategic decision-making and enhance business outcomes. I thrive on the challenge of transforming complex datasets into actionable recommendations that fuel growth and innovation.
+I'm a value-driven data analyst with over two (2) years of experience. I have keen interest in uncovering meaningful insights from data to drive strategic decision-making and enhance business outcomes. I thrive on the challenge of transforming complex datasets into actionable recommendations that fuel growth and innovation. [Click here to find more information](https://www.linkedin.com/in/yisawasiu/)
+
 
 ### Technical Skills
 - Excel
@@ -45,7 +45,4 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   - Excel
   
 ### Dashboard Summary
-![Dashboard image](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/Screenshot%202024-06-10%20213350.png)
-
-### Dataset Used
-[Dataset](https://github.com/GreatYisa/Excel-Sales-Analytics/blob/main/TNMTRetailsalesdocforCapstoneProject.xlsx)
+![Dashboard image](https://github.com/GreatYisa/wasiu_portfolio/blob/main/Screenshot%202024-06-10%20213350.png)
