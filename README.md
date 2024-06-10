@@ -33,7 +33,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 
 ### Project 2: TMNT Retail Analytics
 
-# Excel-Sales-Analytics
+# [Excel-Sales-Analytics](https://github.com/GreatYisa/Excel-Sales-Analytics)
 
 ### Project Description
 - This project represent the capstone project of my data analytics program.
