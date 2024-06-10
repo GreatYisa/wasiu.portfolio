@@ -16,7 +16,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 
 ### Project 1: BG Sales Analytics
 
-# Power-BI-BG-Sales-Report
+# [Power-BI-BG-Sales-Report](https://github.com/GreatYisa/Power-BI-BG-Sales-Report)
 
 ### Project Description
 - This project shows the Analytics of the BG Sales and covers the following.
