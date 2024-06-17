@@ -63,7 +63,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 ### Dashboard Summary
 ![Dashboard image](Screenshot%202024-06-10%20213350.png)
 
-# Maven_Toys-SQL-Project
+# [Maven_Toys-SQL-Project](https://github.com/GreatYisa/Maven_Toys-SQL-Project/tree/main)
 
 ### Project 3: Maven_Toys Analytics
 
