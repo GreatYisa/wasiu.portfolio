@@ -84,10 +84,3 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   
 ### Queries Summary
 ![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
-
-### Dataset Used:
-1. [Stores dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/stores_stores.csv)
-2. [Product dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/products_products.csv)
-3. [Sales dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/sales.csv)
-4. [Inventory dataset](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/Datasets/inventory_inventory.csv)
-
