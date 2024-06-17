@@ -81,4 +81,4 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
   - SQL
   
 ### Queries Summary
-![Queries image](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
+![Queries image]](https://github.com/GreatYisa/Maven_Toys-SQL-Project/blob/main/images/Screenshot%202024-06-17%20114249.png)
