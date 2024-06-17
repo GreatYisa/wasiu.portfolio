@@ -65,7 +65,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 
 ### Project 3: Maven_Toys Analytics
 
-# [SQL-Marven_Toys-Analytics](https://github.com/GreatYisa/MAVEN_TOYS-ANALYTICS-USING-SQL)
+# [Marven_Toys-Analytics](https://github.com/GreatYisa/Maven_Toys-SQL-Project)
 
 ### Project Description
 - Sales & Inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about Products, stores, daily sales transactions, and current inventory levels at each
