@@ -63,22 +63,27 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 ### Dashboard Summary
 ![Dashboard image](Screenshot%202024-06-10%20213350.png)
 
+### Project 3: Banking Analytics
+
+# [SQL-Banking-on-Analytics](https://github.com/GreatYisa/Banking-on-Analytics)
+
 ### Banking-on-Analytics: Tailoring Services for Former Student Customers at NovaTrust Bank
-# [SQL-Banking-on-Analytics]
-**Overview:**  
+### Overview  
 NovaTrust Bank aims to enhance loyalty among former student account holders who have transitioned into the workforce by offering tailored banking services. Many former students continue using their student accounts without realizing NovaTrust's range of products designed for working professionals. The bank intends to identify customers who have received at least 10 salary deposits in the past year, with average salaries exceeding 200,000 naira, and target them with customized offerings like loans and account upgrades.
 
-**Objective:**  
+### Objective  
 The project focuses on identifying and segmenting former student customers to introduce them to services aligned with their current financial needs, such as credit cards, loans, and investment opportunities.
 
-**Key Tasks:**
+### Key Tasks
 1. Identify student accounts with regular salary inflows.
 2. Segment customers based on salary amount and frequency of deposits.
 3. Present segmentation results and recommend strategies for customer engagement.
 
-**Tools & Methods:**  
+### Tools & Methods  
 Using SQL Server for data extraction, exploration, and segmentation, the project involves RFM scoring to categorize customers. A final presentation will outline the segmentation and marketing strategies for driving customer engagement and loyalty.
 
+### Query Summary
+![Query image](Screenshot 2024-09-18 123714.png)
 
 
 
