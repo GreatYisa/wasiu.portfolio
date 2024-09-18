@@ -64,7 +64,7 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 ![Dashboard image](Screenshot%202024-06-10%20213350.png)
 
 ### Banking-on-Analytics: Tailoring Services for Former Student Customers at NovaTrust Bank
-
+# [SQL-Banking-on-Analytics]
 **Overview:**  
 NovaTrust Bank aims to enhance loyalty among former student account holders who have transitioned into the workforce by offering tailored banking services. Many former students continue using their student accounts without realizing NovaTrust's range of products designed for working professionals. The bank intends to identify customers who have received at least 10 salary deposits in the past year, with average salaries exceeding 200,000 naira, and target them with customized offerings like loans and account upgrades.
 
