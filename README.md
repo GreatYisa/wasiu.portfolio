@@ -83,7 +83,7 @@ The project focuses on identifying and segmenting former student customers to in
 Using SQL Server for data extraction, exploration, and segmentation, the project involves RFM scoring to categorize customers. A final presentation will outline the segmentation and marketing strategies for driving customer engagement and loyalty.
 
 ### Query Summary
-![Query image](Screenshot 2024-09-18 123714.png)
+![Query image]
 
 
 
