@@ -46,22 +46,6 @@ The dataset consists of 1000 rows capturing operations at Lai Manufacturing. It 
 
 ### Dashboard Summary
 ![Dashboard image](Screenshot%202024-10-08%20144803.png)
-### Project 1: BG Sales Analytics
-
-# [Power-BI-BG-Sales-Report](https://github.com/GreatYisa/Power-BI-BG-Sales-Report)
-
-### Project Description
-- This project shows the Analytics of the BG Sales and covers the following.
-  1. Data Cleaning
-  2. PBI Dashboard
-  3. Impact of the data on Annual sales by selling area, average sales by selling area etc.
-
-### Technology used
-  - Power BI
-  
-### Dashboard Summary
-![Dashboard image](Screenshot%202024-06-10%20210238.png)
-
 
 ### Project 2: TMNT Retail Analytics
 
