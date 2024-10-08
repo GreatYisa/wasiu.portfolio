@@ -14,9 +14,11 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 - Birchwood University (Affliate) | Data Science
 - Data Science Post Graduate Program | Careerera (in view)
 
+
 ### Project 1: Operational Analytics
 
-# [Operational-analytics-PowerBi]
+# [PowerBi-Operational-Analytics](https://github.com/GreatYisa/Lai_manufacturing_Plc_PowerBi)
+
 ### Business Overview/Problem Summary
 
 Lai Manufacturing Plc faces several challenges in optimizing its operations and maintaining efficiency. Key issues include unexpected production downtime due to equipment failures, inefficiencies in manufacturing processes, and difficulty managing raw material inventories and supply chains. Additionally, complex and unmanageable reports hinder decision-making, and the company struggles with real-time reporting.
@@ -42,6 +44,8 @@ The dataset consists of 1000 rows capturing operations at Lai Manufacturing. It 
 - The project will include data exploration, identifying trends, and presenting insights through interactive dashboards to support effective decision-making.
 
 
+### Dashboard Summary
+![Dashboard image](Screenshot%202024-10-08%20144803.png)
 ### Project 1: BG Sales Analytics
 
 # [Power-BI-BG-Sales-Report](https://github.com/GreatYisa/Power-BI-BG-Sales-Report)
