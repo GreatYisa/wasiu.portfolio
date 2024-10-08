@@ -14,6 +14,34 @@ I'm a value-driven data analyst with over two (2) years of experience. I have ke
 - Birchwood University (Affliate) | Data Science
 - Data Science Post Graduate Program | Careerera (in view)
 
+### Project 1: Operational Analytics
+
+# [Operational-analytics-PowerBi]
+### Business Overview/Problem Summary
+
+Lai Manufacturing Plc faces several challenges in optimizing its operations and maintaining efficiency. Key issues include unexpected production downtime due to equipment failures, inefficiencies in manufacturing processes, and difficulty managing raw material inventories and supply chains. Additionally, complex and unmanageable reports hinder decision-making, and the company struggles with real-time reporting.
+
+### Rationale for the Project
+
+The project focuses on implementing **Operational Analytics** to improve efficiency by utilizing real-time data analysis. This will help Lai Manufacturing identify bottlenecks, reduce downtime, and streamline processes. It also aims to enhance reporting with intuitive dashboards, providing the leadership team with actionable insights to make informed decisions.
+
+### Aim of the Project
+
+The project aims to:
+1. Optimize manufacturing processes using data-driven strategies.
+2. Create user-friendly dashboards for decision-makers.
+3. Use data analysis to answer critical business questions (e.g., product performance, quality trends, supplier performance, and downtime analysis).
+
+### Data Description
+
+The dataset consists of 1000 rows capturing operations at Lai Manufacturing. It includes attributes like product information, production quantity, quality metrics, inventory levels, employee performance, downtime events, and energy consumption. This data will be analyzed to identify inefficiencies and inform strategic decisions.
+
+### Tech Stack and Project Scope
+
+- **Power BI** will be used for data importation, modeling, analysis, and visualization.
+- The project will include data exploration, identifying trends, and presenting insights through interactive dashboards to support effective decision-making.
+
+
 ### Project 1: BG Sales Analytics
 
 # [Power-BI-BG-Sales-Report](https://github.com/GreatYisa/Power-BI-BG-Sales-Report)
